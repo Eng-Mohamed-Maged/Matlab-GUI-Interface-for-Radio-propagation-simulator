@@ -6,7 +6,7 @@ or received power at user required distance.
 
 ## Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BQUR5VelcFg&t=108s)
+[![IMAGE ALT TEXT HERE](https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BQUR5VelcFg&t)
 
 
 ## Screenshots
