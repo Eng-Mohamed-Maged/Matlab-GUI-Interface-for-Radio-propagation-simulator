@@ -11,9 +11,9 @@ or received power at user required distance.
 
 ## Screenshots
 
-<details>
+<ul>
   <summary>This all captures from MATLAB/GUI propagation simulator</summary><blockquote>
-    <details><summary> Part 1 </summary><blockquote>
+    <ul><summary> Part 1 </summary><blockquote>
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/1.png" name="Part1-1">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/2.png" name="Part1-2">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/3.png" name="Part1-3">
@@ -22,7 +22,7 @@ or received power at user required distance.
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/5.png" name="Part1-6">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/6.png" name="Part1-7">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%201/7.png" name="Part1-8">
-  </blockquote></details><details><summary> Part 2 </summary><blockquote>
+  </blockquote></ul><ul><summary> Part 2 </summary><blockquote>
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/1.png" name="Part2-1">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/2.png" name="Part2-2">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/3.png" name="Part2-3">
@@ -34,8 +34,8 @@ or received power at user required distance.
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/9.png" name="Part2-9">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/11.png" name="Part2-10">
   <img src="https://github.com/Eng-Mohamed-Maged/Matlab-GUI-Interface-for-Radio-propagation-simulator/blob/master/Part%202/10.png" name="Part2-11">
-    </blockquote></details>
- </details>
+    </blockquote></ul>
+ </ul>
 
 
 <h3 align="left">Connect with me:</h3>
